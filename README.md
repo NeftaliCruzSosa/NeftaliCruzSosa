@@ -1,12 +1,64 @@
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neftalicruzsosa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neftalicruzsosa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neftalicruzsosa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi <𝚍𝚎𝚟𝚜/>, I'm Neftali </h1>
+<h3 align="center">A FullStack developer in the making </h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=neftalicruzsosa&icon=2&color=6)](https://visitcount.itsvg.in)
+You have finally discovered my Github profile, I was waiting for you! <br>
+Feel free to clone/fork projects or raise issues <br>
+Right now most of the repositories are exercises from the bootcamp that I'm taking <br>
+
+<i>Happy Coding!</i> 🚀
+</br>
+</br>
+</div>
+
+<div>
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  <div>
+
+- 👨‍💻 All of my projects are available  [here](https://github.com/NeftaliCruzSosa?tab=repositories)
+
+- 💬 Ask me about anything <a href="https://github.com/neftalicruzsosa/neftalicruzsosa/issues/new"><b>here</b></a>
+
+- 📫 Also, you may send a nice letter to **neftalicruzsosa@gmail.com**
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+</br>
+</br>
+<div>
+<details>
+<summary align="left">How about some stats?
+<img align="right" src="https://visitcount.itsvg.in/api?id=neftalicruzsosa&icon=2&color=6" alt="felippegh" />
+</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=neftalicruzsosa&theme=dark&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neftalicruzsosa&theme=dark&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+</p>
+<p>
+<i>
+*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
+</i>
+</p>
+</details>
+</div>
+<br/>
+<div align="center">
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/neftalicruzsosa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+</p>
+</div>
